@@ -1,0 +1,6 @@
+data
+__pycache__
+requirements.txt
+instance
+migration
+venv
